@@ -1,0 +1,60 @@
+@import url(https://fonts.googleapis.com/css?family=PT+Sans:400,700);
+
+#ext_menu-a .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-a.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-a .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#ext_menu-a .mbr-brand__name a {
+  font-size: 14px;
+}
+#header2-1 H1 {
+  text-align: right;
+  color: #c1c1c1;
+}
+#header2-1 SPAN {
+  font-size: 60px;
+  font-family: 'PT Sans', sans-serif;
+  color: #ffffff;
+}
+#header2-1 P {
+  text-align: center;
+}
+#menu-8 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-8.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-8 .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-8 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#slider2-9 B {
+  color: #ffffff;
+}
+#menu-d .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-d.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-d .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-d .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#header1-h H1 {
+  text-align: left;
+  color: #ffffff;
+}
+#header1-h P {
+  font-size: 48px;
+}
